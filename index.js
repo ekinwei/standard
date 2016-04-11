@@ -5,6 +5,4 @@ var opts = require('./options.js')
 
 module.exports = new Linter(opts)
 
-
-
-......
+1111
